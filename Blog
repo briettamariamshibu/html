@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+</head>
+<body bgcolor="LightGray">
+    <h1 style="text-align: center;">Welcome to My Blog</h1>
+    <hr>
+    <div style="text-align: center;">
+        <a href="#">Home</a> | 
+        <a href="#">About</a> | 
+        <a href="#">Contact</a>
+    </div>
+    <hr>
+    <h2>Blog Post Title</h2>
+    <p>Esto accuratus. Fac ut titulus tuus accurate repraesentet contentum video. Si non, spectatores forsitan desistant spectando, quod afficere potest inveniendi facultatem.</p>
+    <h3>About</h3>
+    <p>Hello, Welcome everyone to my blog, where I'll be sharing my thoughts and experiences.</p>
+    <hr>
+    <p style="text-align: center;">&copy; 2025 Brietta's Blog. All rights reserved.</p>
+</body>
+</html>
