@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+
+    <h1>John Doe</h1>
+    <h2>Web Developer</h2>
+
+    <h3>Contact Information</h3>
+    <p>Email: johndoe@example.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/johndoe">linkedin.com/in/johndoe</a></p>
+    <p>Portfolio: <a href="https://johndoeportfolio.com">johndoeportfolio.com</a></p>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React, Node.js</li>
+        <li>Git, GitHub</li>
+    </ul>
+
+    <h3>Education</h3>
+    <p><strong>Bachelor of Science in Computer Science</strong> - University of Tech, 2020</p>
+
+    <h3>Experience</h3>
+    <h4>Frontend Developer | Tech Solutions Inc. | 2022 - Present</h4>
+    <ul>
+        <li>Developed web applications using React.</li>
+        <li>Worked on responsive design.</li>
+    </ul>
+
+    <h4>Junior Web Developer | WebWorks Agency | 2020 - 2022</h4>
+    <ul>
+        <li>Built websites using HTML, CSS, JavaScript.</li>
+        <li>Fixed bugs and improved performance.</li>
+    </ul>
+
+    <h3>Projects</h3>
+    <p>Weather App: A React app fetching data from an API.</p>
+    <p>Portfolio Website: Personal portfolio showcasing projects.</p>
+
+</body>
+</html>
