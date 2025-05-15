@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Dubai</title>
+</head>
+<body>
+
+    <h1>Welcome to Dubai</h1>
+    <p>Your perfect getaway destination.</p>
+
+    <h2>About Dubai</h2>
+    <p>Dubai is the most populous city in the United Arab Emirates and the capital of the Emirate of Dubai, the most populous of the country's seven emirates.</p>
+
+    <h2>Popular Landmarks</h2>
+    <ul>
+        <li>Burj Khalifa</li>
+        <li>Burj Al Arab</li>
+        <li>Museum of Future</li>
+        <li>Dubai Frame</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <p>Email: <a href="mailto:stay@addresshotels.com">stay@addresshotels.com</a></p>
+    <p>Phone: (123) 436 8518</p>
+    <p>Sheikh Mohammed Bin Rashed Boulevard Downtown Dubai, PO Box 123234 Dubai, UAE</p>
+
+</body>
+</html>
