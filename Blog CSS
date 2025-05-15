@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            display: flex;
+            margin: 20px;
+        }
+        .main-content {
+            flex: 3;
+            margin-right: 20px;
+        }
+        .sidebar {
+            flex: 1;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .post {
+            background-color: white;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .post h2 {
+            margin-top: 0;
+        }
+        .post p {
+            color: #555;
+        }
+        .sidebar h3 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My Blog</h1>
+        <p>Sharing thoughts and ideas with the world</p>
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            <div class="post">
+                <h2>Blog Post Title 1</h2>
+                <p><em>Posted on February 26, 2025</em></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.</p>
+                <a href="#">Read more...</a>
+            </div>
+            
+            <div class="post">
+                <h2>Blog Post Title 2</h2>
+                <p><em>Posted on February 24, 2025</em></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod tincidunt nisl, ac ultrices ipsum sodales in. Donec eget ex id libero venenatis volutpat. Nullam tincidunt lectus id libero.</p>
+                <a href="#">Read more...</a>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <h3>Categories</h3>
+            <ul>
+                <li><a href="#">Technology</a></li>
+                <li><a href="#">Lifestyle</a></li>
+                <li><a href="#">Travel</a></li>
+                <li><a href="#">Food</a></li>
+            </ul>
+            
+            <h3>Recent Posts</h3>
+            <ul>
+                <li><a href="#">Blog Post Title 1</a></li>
+                <li><a href="#">Blog Post Title 2</a></li>
+                <li><a href="#">Blog Post Title 3</a></li>
+                <li><a href="#">Blog Post Title 4</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 My Blog. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
